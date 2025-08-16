@@ -4,14 +4,14 @@
 # Light Mode
 ![Light Mode](https://github.com/user-attachments/assets/da9313d2-cbf0-40ac-ba02-08d938f3b13d)
 Mobile Application For University Students
-# Live Url: https://appetize.io/app/b_tfa7yeiqspdpjwqadhrttsfnca
+# Latest Live URL: https://appetize.io/app/b_qnuuj6sb3rx3imtwm7eyjc4uta
+Old Live URL: https://appetize.io/app/b_tfa7yeiqspdpjwqadhrttsfnca
+
 This is an old codebase. The new codebase has been moved to a private repository for security purposes.
 # instruction:
-| Email              | Role  | Pass      |
-|--------------------|-------|-----------|
-| admin@gmail.com    | Admin | 01012024  |
-| nonadmin@gmail.com | User  | 01022024  |
-|--------------------|-------|-----------|
+| Email                  | Role  | Pass      |
+|------------------------|-------|-----------|
+| 23mca067@jssaten.ac.in | User  | 25012002  |
 # Note: We are still working on it.
 ![StudentApp](https://github.com/user-attachments/assets/f72d4d2c-d1ba-4407-b072-e81067c13ad7)
 
