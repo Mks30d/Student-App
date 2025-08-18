@@ -1,4 +1,4 @@
-# U N I V R S Λ (new ui will be added soon)
+# U N I V R S Λ
 # DARK MODE
 ![Dark Mode (1)](https://github.com/user-attachments/assets/91008e5a-b8fa-4e3e-9241-6a7176403636)
 # Light Mode
@@ -8,10 +8,13 @@ Mobile Application For University Students
 Old Live URL: https://appetize.io/app/b_tfa7yeiqspdpjwqadhrttsfnca
 
 This is an old codebase. The new codebase has been moved to a private repository for security purposes.
-# instruction:
-| Email                  | Role  | Pass      |
+# User Credentials for demo:
+| Email                  | Role  | Password  |
 |------------------------|-------|-----------|
 | 23mca067@jssaten.ac.in | User  | 25012002  |
-# Note: We are still working on it.
-![StudentApp](https://github.com/user-attachments/assets/f72d4d2c-d1ba-4407-b072-e81067c13ad7)
+# Screenshots of the app:.
+![StudentApp](https://github.com/Mks30d/Student-App/blob/master/assets/images/UNIVRSA%20(1).png)
 
+# Download UNIVRSΛ pre-releases from here 👇.
+https://github.com/Mks30d/Student-App/releases/tag/v1.0.0
+# Note: We are still working on it.
